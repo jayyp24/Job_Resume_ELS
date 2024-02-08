@@ -13,10 +13,14 @@ The key features of the project include:
 
 Indexing of Job Listings and Resumes: Job listings and resumes are indexed into Elasticsearch for efficient storage and retrieval.
 
+
 Utilization of Elasticsearch for Full-Text Search: Elasticsearch's powerful search capabilities are leveraged to perform full-text search on indexed documents.
+
 
 Advanced Querying for Matching Criteria: Elasticsearch's querying capabilities are utilized to perform advanced searches based on specific criteria such as skills, experience, and education.
 
+
 Integration of NLP for Feature Extraction: Natural Language Processing techniques are employed to extract relevant features from job listings and resumes, enhancing the matching algorithm's accuracy.
+
 
 Automated Matching Algorithm: An intelligent matching algorithm is implemented to automatically match job listings with suitable resumes based on predefined criteria.
